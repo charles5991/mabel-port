@@ -16,7 +16,7 @@ export const QUIET_NODE_PORTFOLIO_V2_GITHUB_LINK =
 export const QUIET_NODE_GITHUB_LINK = "https://github.com/quiet-node";
 export const QUIET_NODE_REDDIT_LINK =
   "https://www.reddit.com/user/Quiet-Computer-3495";
-export const QUIET_NODE_EMAIL_LINK = "mailto:logan@quiet-node.dev";
+export const QUIET_NODE_EMAIL_LINK = "mailto:Mabelssooi@yahoo.com";
 export const QUIET_NODE_LINKEDIN_LINK =
   "https://www.linkedin.com/in/mabel-ooi-37351531/";
 export const QUIET_NODE_TWITTER_LINK = "https://twitter.com/quiet_node";
